@@ -10,7 +10,7 @@
 
 
 <ion-app>
-  <ion-CDN>
+  <ion-header>
     <ion-toolbar>
       <ion-title>CDN</ion-title>
     </ion-toolbar>
